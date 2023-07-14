@@ -1,0 +1,7 @@
+build/
+node_modules/
+package-lock.json
+.terraform.lock.hcl
+.terraform/
+.terraform.tfstate.lock.info
+terraform.tfstate
